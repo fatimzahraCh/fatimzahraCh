@@ -14,24 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Fatim Zahra Chitaoui
+# 👩‍💻 Fatim Zahra Chitaoui
 
-### 🛠 Compétences Techniques
+### 🚀 Stack Technique
 
-**⋄ Programmation & Frameworks**
-> [cite_start]**Languages:** Java, C#, Python, C, C++, JavaScript [cite: 29]
-> [cite_start]**Frameworks:** .NET, Symfony, Django, React Native [cite: 29]
-> [cite_start]**Outils:** Maven, JavaFX, Entity Framework, WCF Services [cite: 13, 15, 17]
+| Domaines | Technologies |
+| :--- | :--- |
+| **Langages** | `Java`, `C#`, `Python`, `C`, `C++`, `JavaScript` |
+| **Frameworks** | `React Native`, `.NET`, `Symfony`, `Django` |
+| **Bases de Données** | `MySQL`, `SQL Server`, `Oracle`, `MongoDB`, `Neo4j`, `SQLite` |
+| **Environnements** | `Maven`, `JavaFX`, `WCF Services`, `Entity Framework` |
 
-**⋄ Gestion de Données**
-> [cite_start]**SQL:** MySQL, Microsoft SQL Server, SQLite, Oracle (PL/SQL) [cite: 23, 30]
-> [cite_start]**NoSQL:** MongoDB, Neo4j [cite: 30]
+---
+
+### 🛠️ Expertise en Développement
+
+* **Frontend & Mobile :** Développement d'applications cross-platform avec **React Native** et interfaces **JavaFX**.
+* **Backend :** Conception d'architectures **MVC** avec **.NET**, **Symfony** et **Django**.
+* **Data :** Maîtrise avancée du **SQL**, **PL/SQL** (Oracle) et des bases de données orientées graphes (**Neo4j**).
 
 ---
 
 
----
-
-<p align="right">
-  [cite_start]<i>Étudiante Ingénieure en Développement Digital & Systèmes d'Information</i> [cite: 2]
-</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Collaborate-success?style=for-the-badge" />
+</div>
