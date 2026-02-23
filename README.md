@@ -14,25 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# 👩‍💻 Fatim Zahra Chitaoui
+# Fatim Zahra Chitaoui
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
+### 🛠 Compétences Techniques
+
+**⋄ Programmation & Frameworks**
+> [cite_start]**Languages:** Java, C#, Python, C, C++, JavaScript [cite: 29]
+> [cite_start]**Frameworks:** .NET, Symfony, Django, React Native [cite: 29]
+> [cite_start]**Outils:** Maven, JavaFX, Entity Framework, WCF Services [cite: 13, 15, 17]
+
+**⋄ Gestion de Données**
+> [cite_start]**SQL:** MySQL, Microsoft SQL Server, SQLite, Oracle (PL/SQL) [cite: 23, 30]
+> [cite_start]**NoSQL:** MongoDB, Neo4j [cite: 30]
 
 ---
 
-### 🚀 Développement & Frameworks
-- [cite_start]**Web & Mobile :** `React Native`, `Symfony`, `Django`, `Node.js/Express`, `.NET MVC` [cite: 10, 15, 29]
-- [cite_start]**Logiciel :** `JavaFX`, `C++`, `C`, `WCF Services` [cite: 13, 17, 29]
 
-### 📊 Bases de Données
-- [cite_start]**Relationnel :** `SQL Server`, `MySQL`, `Oracle (PL/SQL)`, `SQLite` [cite: 13, 17, 23, 30]
-- [cite_start]**NoSQL :** `MongoDB`, `Neo4j` [cite: 30]
+---
 
-<p align="center">
-  <i>Étudiante Ingénieure en Développement Digital & Systèmes d'Information</i>
+<p align="right">
+  [cite_start]<i>Étudiante Ingénieure en Développement Digital & Systèmes d'Information</i> [cite: 2]
 </p>
