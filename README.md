@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 💻 Compétences Techniques
+
+* [cite_start]**Langages & Frameworks :** JAVA, C, C#, C++, PYTHON, JAVASCRIPT, .NET, SYMFONY, DJANGO, REACT NATIVE[cite: 29].
+* [cite_start]**Bases de Données :** MYSQL, MICROSOFT SQL SERVER, SQLITE, MONGODB, NEO4J [cite: 30][cite_start], ORACLE (PL/SQL)[cite: 23].
+* [cite_start]**Outils & Environnements :** MAVEN, JAVAFX [cite: 13][cite_start], ENTITY FRAMEWORK [cite: 15][cite_start], WCF SERVICES[cite: 17].
+
+---
